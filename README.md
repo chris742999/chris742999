@@ -1,16 +1,163 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**chris742999/chris742999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Hi, I'm Chris Musila ⚡
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Aspiring+Cybersecurity+Specialist;Ethical+Hacking+Enthusiast;Full+Stack+Developer;Always+Learning+Something+New" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=chris742999&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+
+</div>
+
+---
+
+```bash
+> Initializing Christopher_Musila.exe ...
+
+Name        : Christopher Musila
+Role        : IT Student | Future Cybersecurity Specialist
+Location    : Thika, Kenya
+Status      : Learning • Building • Securing
+Focus       : Ethical Hacking | Web Security | Penetration Testing
+```
+
+# 🧠 About Me
+
+```javascript
+const Christopher = {
+    education: "BSc Information Technology",
+    diploma: "Information Technology",
+    passions: [
+        "Cybersecurity",
+        "Ethical Hacking",
+        "Web Development",
+        "Automation",
+        "Network Security"
+    ],
+    currentlyLearning: [
+        "Kali Linux",
+        "Penetration Testing",
+        "CTFs",
+        "Linux",
+        "Web Security"
+    ],
+    motto: "Hack ethically. Learn continuously. Build fearlessly."
+}
+```
+
+---
+
+# ⚔️ Cybersecurity Arsenal
+
+* 🔐 Ethical Hacking
+* 🌐 Web Application Security
+* 🛡️ Network Security
+* 🔎 Vulnerability Assessment
+* 🚩 Capture The Flag (CTF)
+* 🐧 Linux Administration
+* 🔥 Penetration Testing
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,php,js,java,python,react,ts,kotlin,flutter,git,github,firebase,mysql,vscode,linux" />
+
+</div>
+
+---
+
+# 📊 Language Proficiency
+
+| Technology    | Proficiency              |
+| ------------- | ------------------------ |
+| 🌐 HTML       | ████████████████████ 95% |
+| 🐘 PHP        | ██████████████████ 90%   |
+| ⚡ JavaScript  | █████████████████ 85%    |
+| ☕ Java        | ████████████████ 80%     |
+| 🐍 Python     | ███████████████ 75%      |
+| ⚛️ React      | ██████████████ 70%       |
+| 🔷 TypeScript | █████████████ 65%        |
+| 🦋 Flutter    | ████████████ 60%         |
+| 🟠 Kotlin     | ███████████ 55%          |
+| 🎮 Three.js   | ██████████ 50%           |
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chris742999&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chris742999&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎓 Student Management System
+
+> PHP • MySQL • HTML • JavaScript
+
+### 📸 Photography Management System
+
+> PHP • CSS • JavaScript
+
+### 🔥 Firebase Mobile Applications
+
+> Flutter • Firebase
+
+### 🌐 Full Stack Web Applications
+
+> PHP • JavaScript • MySQL
+
+---
+
+# 📚 Currently Learning
+
+```diff
++ Ethical Hacking
++ Kali Linux
++ Penetration Testing
++ Network Security
++ Digital Forensics
++ Capture The Flag Challenges
+```
+
+---
+
+# 🏆 Goals
+
+✓ Complete BSc in Information Technology
+
+✓ Build a Cybersecurity Portfolio
+
+✓ Participate in CTF Competitions
+
+✓ Obtain Professional Certifications
+
+✓ Become a Professional Ethical Hacker
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: **[chrismusila07@gmail.com](mailto:chrismusila07@gmail.com)**
+
+💻 GitHub: **github.com/chris742999**
+
+🌐My Portfolio: **https://chrismusilaportfolio.netlify.app/**
+
+📍 Location: **Thika, Kenya**
+
+---
+
+<div align="center">
+
+### ⚡ "The best way to predict the future is to build it." ⚡
+
+</div>
