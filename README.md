@@ -161,3 +161,10 @@ const Christopher = {
 ### ⚡ "The best way to predict the future is to build it." ⚡
 
 </div>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/chris742999/chris742999/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
