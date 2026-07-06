@@ -11,7 +11,7 @@
 ---
 
 ```bash
-> Initializing Christopher_Musila.exe ...
+> Initializing Chris_Musila.exe ...
 
 Name        : Christopher Musila
 Role        : IT Student | Future Cybersecurity Specialist
@@ -23,7 +23,7 @@ Focus       : Ethical Hacking | Web Security | Penetration Testing
 # 🧠 About Me
 
 ```javascript
-const Christopher = {
+const Chris = {
     education: "BSc Information Technology",
     diploma: "Information Technology",
     passions: [
@@ -40,23 +40,8 @@ const Christopher = {
         "Linux",
         "Web Security"
     ],
-    motto: "Hack ethically. Learn continuously. Build fearlessly."
 }
 ```
-
----
-
-# ⚔️ Cybersecurity Arsenal
-
-* 🔐 Ethical Hacking
-* 🌐 Web Application Security
-* 🛡️ Network Security
-* 🔎 Vulnerability Assessment
-* 🚩 Capture The Flag (CTF)
-* 🐧 Linux Administration
-* 🔥 Penetration Testing
-
----
 
 # 💻 Tech Stack
 
@@ -101,11 +86,11 @@ const Christopher = {
 
 ### 🎓 Student Management System
 
-> PHP • MySQL • HTML • JavaScript
+> Flutter • Firebase • Kotlin • Dart
 
 ### 📸 Photography Management System
 
-> PHP • CSS • JavaScript
+> PHP • CSS • JavaScript • React 
 
 ### 🔥 Firebase Mobile Applications
 
@@ -113,7 +98,7 @@ const Christopher = {
 
 ### 🌐 Full Stack Web Applications
 
-> PHP • JavaScript • MySQL
+> Go highlevel • Html • Crm
 
 ---
 
@@ -128,27 +113,13 @@ const Christopher = {
 + Capture The Flag Challenges
 ```
 
----
 
-# 🏆 Goals
-
-✓ Complete BSc in Information Technology
-
-✓ Build a Cybersecurity Portfolio
-
-✓ Participate in CTF Competitions
-
-✓ Obtain Professional Certifications
-
-✓ Become a Professional Ethical Hacker
-
----
 
 # 🌐 Connect With Me
 
 📧 Email: **[chrismusila07@gmail.com](mailto:chrismusila07@gmail.com)**
 
-💻 GitHub: **github.com/chris742999**
+💻 GitHub: **[github.com/chris742999](https://github.com/chris742999/chris742999/)**
 
 🌐My Portfolio: **https://chrismusilaportfolio.netlify.app/**
 
@@ -156,12 +127,7 @@ const Christopher = {
 
 ---
 
-<div align="center">
-
-### ⚡ "The best way to predict the future is to build it." ⚡
-
-</div>
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
