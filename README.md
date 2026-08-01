@@ -104,25 +104,6 @@ const Chris = {
 
 ---
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chris742999&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chris742999&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
@@ -186,18 +167,6 @@ Premium futuristic photography website built using React, Three.js and GSAP.
 + Capture The Flag (CTFs)
 ```
 
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Java
-- 🔒 Learn Advanced Web Security
-- 💻 Build More Full Stack Applications
-- 🛡️ Start Bug Bounty Hunting
-- 🚀 Contribute to Open Source
-- 🎓 Earn Cybersecurity Certifications
-
----
 
 # 🌐 Connect With Me
 
@@ -221,7 +190,6 @@ Thika, Kenya
 
 # 🐍 Contribution Snake
 
-> **Create the GitHub Action first, otherwise this image will stay broken.**
 
 <div align="center">
 
@@ -233,8 +201,4 @@ Thika, Kenya
 
 <div align="center">
 
-### ⚡ "Code. Secure. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:8A2BE2&height=120&section=footer"/>
-
-</div>
