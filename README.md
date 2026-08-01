@@ -68,23 +68,20 @@ const Chris = {
 
 # 📊 Language Proficiency
 
-<div align="center">
 
-| Technology | Proficiency |
-|:---|:---:|
-| 🌐 HTML | ![](https://img.shields.io/badge/95%25-Expert-success?style=for-the-badge) |
-| 🎨 CSS | ![](https://img.shields.io/badge/92%25-Expert-success?style=for-the-badge) |
-| 🐘 PHP | ![](https://img.shields.io/badge/90%25-Advanced-brightgreen?style=for-the-badge) |
-| ⚡ JavaScript | ![](https://img.shields.io/badge/85%25-Advanced-green?style=for-the-badge) |
-| ☕ Java | ![](https://img.shields.io/badge/80%25-Advanced-yellowgreen?style=for-the-badge) |
-| 🐍 Python | ![](https://img.shields.io/badge/75%25-Intermediate-yellow?style=for-the-badge) |
-| ⚛️ React | ![](https://img.shields.io/badge/70%25-Intermediate-orange?style=for-the-badge) |
-| 🔷 TypeScript | ![](https://img.shields.io/badge/65%25-Intermediate-orange?style=for-the-badge) |
-| 🦋 Flutter | ![](https://img.shields.io/badge/60%25-Learning-red?style=for-the-badge) |
-| 🟠 Kotlin | ![](https://img.shields.io/badge/55%25-Learning-red?style=for-the-badge) |
-| 🎮 Three.js | ![](https://img.shields.io/badge/50%25-Beginner-lightgrey?style=for-the-badge) |
-
-</div>
+```text
+🌐 HTML         ▰▰▰▰▰▰▰▰▰▰ 95%
+🎨 CSS          ▰▰▰▰▰▰▰▰▰▱ 92%
+🐘 PHP          ▰▰▰▰▰▰▰▰▰▱ 90%
+⚡ JavaScript   ▰▰▰▰▰▰▰▰▱▱ 85%
+☕ Java         ▰▰▰▰▰▰▰▰▱▱ 80%
+🐍 Python       ▰▰▰▰▰▰▰▱▱▱ 75%
+⚛️ React        ▰▰▰▰▰▰▰▱▱▱ 70%
+🔷 TypeScript  ▰▰▰▰▰▰▱▱▱▱ 65%
+🦋 Flutter      ▰▰▰▰▰▰▱▱▱▱ 60%
+🟠 Kotlin       ▰▰▰▰▰▱▱▱▱▱ 55%
+🎮 Three.js     ▰▰▰▰▰▱▱▱▱▱ 50%
+```
 
 ---
 
